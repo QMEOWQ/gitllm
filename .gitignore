@@ -1,0 +1,8 @@
+target/
+**/*.rs.bk
+*.user
+.idea/
+.vscode/
+*.swp
+.DS_Store
+struct.md

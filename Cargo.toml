@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "crates/gitllm-core",
+]
+resolver = "3"
